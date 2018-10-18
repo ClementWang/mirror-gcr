@@ -1,0 +1,1 @@
+This is a proxy to pull kubernets images from gcr.io.
